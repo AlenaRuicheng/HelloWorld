@@ -1,4 +1,4 @@
 # HelloWorld
 This is simple repository
-new version<br>
+<font color='salmon'>new version</font><br>
 Can I write something fun here?
